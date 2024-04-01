@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1711993167 source:c:\users\fredy\documents\universidad uso\ciclo iii\lab de programacion ii\evaluacion\primeraevaluacion\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Cuenta.h"
+	"Abono.h"
+	"Cliente.h"
+	"Fecha.h"
+	<string>
+
+1711992092 source:c:\users\fredy\documents\universidad uso\ciclo iii\lab de programacion ii\evaluacion\primeraevaluacion\src\abono.cpp
+	<iostream>
+	"Abono.h"
+	"Fecha.h"
+
+1711191022 c:\users\fredy\documents\universidad uso\ciclo iii\lab de programacion ii\evaluacion\primeraevaluacion\include\abono.h
+	"Fecha.h"
+
+1711190897 c:\users\fredy\documents\universidad uso\ciclo iii\lab de programacion ii\evaluacion\primeraevaluacion\include\fecha.h
+
+1711192447 source:c:\users\fredy\documents\universidad uso\ciclo iii\lab de programacion ii\evaluacion\primeraevaluacion\src\cliente.cpp
+	<iostream>
+	"Cliente.h"
+
+1711192447 c:\users\fredy\documents\universidad uso\ciclo iii\lab de programacion ii\evaluacion\primeraevaluacion\include\cliente.h
+	<string.h>
+
+1711988141 source:c:\users\fredy\documents\universidad uso\ciclo iii\lab de programacion ii\evaluacion\primeraevaluacion\src\cuenta.cpp
+	<iostream>
+	"Cuenta.h"
+	"Cliente.h"
+	"Abono.h"
+
+1711980941 c:\users\fredy\documents\universidad uso\ciclo iii\lab de programacion ii\evaluacion\primeraevaluacion\include\cuenta.h
+	"Abono.h"
+	"Cliente.h"
+
+1711992597 source:c:\users\fredy\documents\universidad uso\ciclo iii\lab de programacion ii\evaluacion\primeraevaluacion\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
