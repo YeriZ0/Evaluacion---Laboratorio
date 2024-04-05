@@ -39,3 +39,43 @@
 	<iostream>
 	"Fecha.h"
 
+1712336522 source:c:\users\fredy\desktop\tarea\evaluacion---laboratorio\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Cuenta.h"
+	"Abono.h"
+	"Cliente.h"
+	"Fecha.h"
+	<string>
+
+1712336522 c:\users\fredy\desktop\tarea\evaluacion---laboratorio\include\cuenta.h
+	"Abono.h"
+	"Cliente.h"
+
+1712336522 c:\users\fredy\desktop\tarea\evaluacion---laboratorio\include\abono.h
+	"Fecha.h"
+
+1712336522 c:\users\fredy\desktop\tarea\evaluacion---laboratorio\include\fecha.h
+
+1712336522 c:\users\fredy\desktop\tarea\evaluacion---laboratorio\include\cliente.h
+	<string.h>
+
+1712336522 source:c:\users\fredy\desktop\tarea\evaluacion---laboratorio\src\abono.cpp
+	<iostream>
+	"Abono.h"
+	"Fecha.h"
+
+1712336522 source:c:\users\fredy\desktop\tarea\evaluacion---laboratorio\src\cliente.cpp
+	<iostream>
+	"Cliente.h"
+
+1712336522 source:c:\users\fredy\desktop\tarea\evaluacion---laboratorio\src\cuenta.cpp
+	<iostream>
+	"Cuenta.h"
+	"Cliente.h"
+	"Abono.h"
+
+1712336522 source:c:\users\fredy\desktop\tarea\evaluacion---laboratorio\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+

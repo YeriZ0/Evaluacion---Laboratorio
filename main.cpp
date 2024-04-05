@@ -14,8 +14,10 @@ using namespace std;
 
 //FREDY ALEXANDER CAMPOS FIGUEROA - PROGRAMACION II
 
+
 int menu(){
     int op = 0;
+    cout << "Banco Fredy" << endl;
     cout << "MENU DE OPCIONES" << endl;
     cout << "1. Agregar cliente a la lista" << endl;
     cout << "2. Crear cuenta al cliente" << endl;
